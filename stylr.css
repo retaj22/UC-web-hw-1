@@ -1,3 +1,51 @@
 h2{
-   text-align: center;color: blueviolet;font: bold;
+   text-align: center;
+   color: rgb(203, 158, 245);
+   font: bold;
+   font-size: xx-large;
+   margin: 60px;
+}
+h1{
+    color: rgb(78, 78, 239);
+    width: 500;
+    background-color: rgb(253, 249, 243);
+    text-align: center;
+    font-size:xx-large;
+    font-style: italic;
+}
+.photo{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 35%;
+}
+.pargraph{
+    color: rgb(160, 160, 239);
+    font-size: larger;
+    text-align:left;
+    display: flex;
+    font-style: italic;
+    font-weight: bold;
+}
+.sorted{
+    text-align:left;
+    color: cadetblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+.Bt1{
+    background-color: rgb(132, 177, 206);
+    color: aliceblue;
+    margin: 30px;
+}
+.Bt2{
+    background-color: rgb(132, 177, 206);
+    color: aliceblue;
+    margin: 10px;
+}
+.unsorted{
+   text-align: center
+   ;color: rgb(177, 127, 223);
+   font-size: x-large;
+   margin: 20px; ;
 }
